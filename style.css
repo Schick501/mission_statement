@@ -39,9 +39,8 @@ h1, h2 {
 
 
 p {
-    text-align: left;
+    text-align: center;
     padding: 10px 0; 
-    max-width: 900px;
 }
 
 .content p {
